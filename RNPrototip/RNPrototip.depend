@@ -1,0 +1,460 @@
+# depslib dependency file v1.0
+1491296438 source:c:\proiecte c++\rnprototip\main.cpp
+	<iostream>
+	"Nava.h"
+
+1491296551 c:\proiecte c++\rnprototip\include\nava.h
+
+1491891477 source:c:\users\student.lab221a-6\desktop\rnprototip\src\nava.cpp
+	"Nava.h"
+
+1491888011 c:\users\student.lab221a-6\desktop\rnprototip\include\nava.h
+
+1491889145 source:c:\users\student.lab221a-6\desktop\rnprototip\main.cpp
+	<iostream>
+	"Nava.h"
+	"Crucisator.h"
+	"Distrugator.h"
+	"Submarin.h"
+	"Salupa.h"
+
+1491889272 c:\users\student.lab221a-6\desktop\rnprototip\include\crucisator.h
+	"Nava.h"
+
+1491887575 source:c:\users\student.lab221a-6\desktop\rnprototip\src\crucisator.cpp
+	"Crucisator.h"
+	<iostream>
+
+1491887703 source:c:\users\student.lab221a-6\desktop\rnprototip\src\distrugator.cpp
+	"Distrugator.h"
+	<iostream>
+
+1491887458 c:\users\student.lab221a-6\desktop\rnprototip\include\distrugator.h
+	"Nava.h"
+
+1491887562 source:c:\users\student.lab221a-6\desktop\rnprototip\src\forma.cpp
+	"Forma.h"
+
+1491887562 c:\users\student.lab221a-6\desktop\rnprototip\include\forma.h
+	"Nava.h"
+
+1491887696 source:c:\users\student.lab221a-6\desktop\rnprototip\src\submarin.cpp
+	"Submarin.h"
+	<iostream>
+
+1491887449 c:\users\student.lab221a-6\desktop\rnprototip\include\submarin.h
+	"Nava.h"
+
+1491888000 source:c:\users\student.lab221a-6\desktop\rnprototip\src\salupa.cpp
+	"Salupa.h"
+	<iostream>
+
+1491890313 c:\users\student.lab221a-6\desktop\rnprototip\include\salupa.h
+	"Nava.h"
+
+1491891175 source:c:\users\robert\desktop\junkprojectfolder\rnprototip\src\crucisator.cpp
+	"Crucisator.h"
+	<iostream>
+
+1491892872 c:\users\robert\desktop\junkprojectfolder\rnprototip\include\crucisator.h
+	"Nava.h"
+
+1492516407 c:\users\robert\desktop\junkprojectfolder\rnprototip\include\nava.h
+
+1491891303 source:c:\users\robert\desktop\junkprojectfolder\rnprototip\src\distrugator.cpp
+	"Distrugator.h"
+	<iostream>
+
+1491891058 c:\users\robert\desktop\junkprojectfolder\rnprototip\include\distrugator.h
+	"Nava.h"
+
+1491891162 source:c:\users\robert\desktop\junkprojectfolder\rnprototip\src\forma.cpp
+	"Forma.h"
+
+1491896638 c:\users\robert\desktop\junkprojectfolder\rnprototip\include\forma.h
+	"Nava.h"
+
+1491891600 source:c:\users\robert\desktop\junkprojectfolder\rnprototip\src\salupa.cpp
+	"Salupa.h"
+	<iostream>
+
+1491893913 c:\users\robert\desktop\junkprojectfolder\rnprototip\include\salupa.h
+	"Nava.h"
+
+1491891296 source:c:\users\robert\desktop\junkprojectfolder\rnprototip\src\submarin.cpp
+	"Submarin.h"
+	<iostream>
+
+1491891049 c:\users\robert\desktop\junkprojectfolder\rnprototip\include\submarin.h
+	"Nava.h"
+
+1491895499 source:c:\users\robert\desktop\junkprojectfolder\rnprototip\src\nava.cpp
+	"Nava.h"
+
+1492972479 source:c:\users\robert\desktop\final\rnprototip\src\crucisator.cpp
+	"Crucisator.h"
+	<iostream>
+
+1492967729 c:\users\robert\desktop\final\rnprototip\include\crucisator.h
+	"Nava.h"
+	"Forma.h"
+	"CampDeLupta.h"
+
+1492981636 c:\users\robert\desktop\final\rnprototip\include\nava.h
+	<iostream>
+	"CampDeLupta.h"
+
+1492967671 source:c:\users\robert\desktop\final\rnprototip\src\distrugator.cpp
+	"Distrugator.h"
+	<iostream>
+
+1492965179 c:\users\robert\desktop\final\rnprototip\include\distrugator.h
+	"Nava.h"
+	"Forma.h"
+	"CampDeLupta.h"
+
+1492769638 source:c:\users\robert\desktop\final\rnprototip\src\forma.cpp
+	"Forma.h"
+
+1492804297 c:\users\robert\desktop\final\rnprototip\include\forma.h
+	"CampDeLupta.h"
+
+1492982030 source:c:\users\robert\desktop\final\rnprototip\src\nava.cpp
+	<cstring>
+	"Nava.h"
+	"Distrugator.h"
+	"Salupa.h"
+	"Crucisator.h"
+	"Submarin.h"
+
+1492967682 source:c:\users\robert\desktop\final\rnprototip\src\salupa.cpp
+	"Salupa.h"
+	<iostream>
+	"Nava.h"
+
+1492961782 c:\users\robert\desktop\final\rnprototip\include\salupa.h
+	"Nava.h"
+	"Forma.h"
+
+1492849844 source:c:\users\robert\desktop\final\rnprototip\src\submarin.cpp
+	"Submarin.h"
+	<iostream>
+
+1492850040 c:\users\robert\desktop\final\rnprototip\include\submarin.h
+	"Nava.h"
+	"Forma.h"
+	"CampDeLupta.h"
+	"Actiune.h"
+
+1492981879 source:c:\users\robert\desktop\final\rnprototip\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	"Nava.h"
+	"Crucisator.h"
+	"Distrugator.h"
+	"Submarin.h"
+	"Salupa.h"
+	"vectorNave.h"
+	"CampDeLupta.h"
+
+1492845816 source:c:\users\robert\desktop\final\rnprototip\src\actiune.cpp
+	"Actiune.h"
+
+1492848916 c:\users\robert\desktop\final\rnprototip\include\actiune.h
+	"Nava.h"
+
+1492972479 c:\users\robert\desktop\final\rnprototip\include\vectornave.h
+	"Nava.h"
+
+1492799234 source:c:\users\robert\desktop\final\rnprototip\src\vectornave.cpp
+	"vectorNave.h"
+	"Salupa.h"
+	"Submarin.h"
+	"Distrugator.h"
+	"Crucisator.h"
+	<cstring>
+
+1492960753 c:\users\robert\desktop\final\rnprototip\include\campdelupta.h
+	"Nava.h"
+
+1492958380 source:c:\users\robert\desktop\final\rnprototip\src\campdelupta.cpp
+	"CampDeLupta.h"
+	<cstring>
+
+1493039146 source:d:\rnprototip\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	"Nava.h"
+	"Crucisator.h"
+	"Distrugator.h"
+	"Submarin.h"
+	"Salupa.h"
+	"vectorNave.h"
+	"CampDeLupta.h"
+
+1493037304 d:\rnprototip\include\nava.h
+	<iostream>
+	"CampDeLupta.h"
+
+1492960753 d:\rnprototip\include\campdelupta.h
+	"Nava.h"
+
+1492967729 d:\rnprototip\include\crucisator.h
+	"Nava.h"
+	"Forma.h"
+	"CampDeLupta.h"
+
+1492804297 d:\rnprototip\include\forma.h
+	"CampDeLupta.h"
+
+1493037220 d:\rnprototip\include\distrugator.h
+	"Nava.h"
+	"Forma.h"
+	"CampDeLupta.h"
+
+1493037249 d:\rnprototip\include\submarin.h
+	"Nava.h"
+	"Forma.h"
+	"CampDeLupta.h"
+	"Actiune.h"
+
+1492848916 d:\rnprototip\include\actiune.h
+	"Nava.h"
+
+1492961782 d:\rnprototip\include\salupa.h
+	"Nava.h"
+	"Forma.h"
+
+1492972479 d:\rnprototip\include\vectornave.h
+	"Nava.h"
+
+1492958380 source:d:\rnprototip\src\campdelupta.cpp
+	"CampDeLupta.h"
+	<cstring>
+
+1492972479 source:d:\rnprototip\src\crucisator.cpp
+	"Crucisator.h"
+	<iostream>
+
+1492967671 source:d:\rnprototip\src\distrugator.cpp
+	"Distrugator.h"
+	<iostream>
+
+1492769638 source:d:\rnprototip\src\forma.cpp
+	"Forma.h"
+
+1492982030 source:d:\rnprototip\src\nava.cpp
+	<cstring>
+	"Nava.h"
+	"Distrugator.h"
+	"Salupa.h"
+	"Crucisator.h"
+	"Submarin.h"
+
+1492967682 source:d:\rnprototip\src\salupa.cpp
+	"Salupa.h"
+	<iostream>
+	"Nava.h"
+
+1493039635 source:d:\rnprototip\src\submarin.cpp
+	"Submarin.h"
+	<iostream>
+	<cstring>
+	"Salupa.h"
+	"Distrugator.h"
+	"Crucisator.h"
+
+1492799234 source:d:\rnprototip\src\vectornave.cpp
+	"vectorNave.h"
+	"Salupa.h"
+	"Submarin.h"
+	"Distrugator.h"
+	"Crucisator.h"
+	<cstring>
+
+1493035546 source:e:\rnprototip\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	"Nava.h"
+	"Crucisator.h"
+	"Distrugator.h"
+	"Submarin.h"
+	"Salupa.h"
+	"vectorNave.h"
+	"CampDeLupta.h"
+
+1493033704 e:\rnprototip\include\nava.h
+	<iostream>
+	"CampDeLupta.h"
+
+1492957153 e:\rnprototip\include\campdelupta.h
+	"Nava.h"
+
+1492964129 e:\rnprototip\include\crucisator.h
+	"Nava.h"
+	"Forma.h"
+	"CampDeLupta.h"
+
+1492800697 e:\rnprototip\include\forma.h
+	"CampDeLupta.h"
+
+1493033620 e:\rnprototip\include\distrugator.h
+	"Nava.h"
+	"Forma.h"
+	"CampDeLupta.h"
+
+1493033649 e:\rnprototip\include\submarin.h
+	"Nava.h"
+	"Forma.h"
+	"CampDeLupta.h"
+	"Actiune.h"
+
+1492845316 e:\rnprototip\include\actiune.h
+	"Nava.h"
+
+1492958182 e:\rnprototip\include\salupa.h
+	"Nava.h"
+	"Forma.h"
+
+1492968879 e:\rnprototip\include\vectornave.h
+	"Nava.h"
+
+1492954780 source:e:\rnprototip\src\campdelupta.cpp
+	"CampDeLupta.h"
+	<cstring>
+
+1492968879 source:e:\rnprototip\src\crucisator.cpp
+	"Crucisator.h"
+	<iostream>
+
+1492964071 source:e:\rnprototip\src\distrugator.cpp
+	"Distrugator.h"
+	<iostream>
+
+1492766038 source:e:\rnprototip\src\forma.cpp
+	"Forma.h"
+
+1492978430 source:e:\rnprototip\src\nava.cpp
+	<cstring>
+	"Nava.h"
+	"Distrugator.h"
+	"Salupa.h"
+	"Crucisator.h"
+	"Submarin.h"
+
+1492964082 source:e:\rnprototip\src\salupa.cpp
+	"Salupa.h"
+	<iostream>
+	"Nava.h"
+
+1493035894 source:e:\rnprototip\src\submarin.cpp
+	"Submarin.h"
+	<iostream>
+	<cstring>
+	"Salupa.h"
+	"Distrugator.h"
+	"Crucisator.h"
+
+1492795634 source:e:\rnprototip\src\vectornave.cpp
+	"vectorNave.h"
+	"Salupa.h"
+	"Submarin.h"
+	"Distrugator.h"
+	"Crucisator.h"
+	<cstring>
+
+1492958380 source:f:\rnprototip\src\campdelupta.cpp
+	"CampDeLupta.h"
+	<cstring>
+
+1492960753 f:\rnprototip\include\campdelupta.h
+	"Nava.h"
+
+1493067484 f:\rnprototip\include\nava.h
+	<iostream>
+	"CampDeLupta.h"
+
+1493067986 source:f:\rnprototip\src\crucisator.cpp
+	"Crucisator.h"
+	<iostream>
+
+1493067981 f:\rnprototip\include\crucisator.h
+	"Nava.h"
+	"Forma.h"
+	"CampDeLupta.h"
+
+1492804297 f:\rnprototip\include\forma.h
+	"CampDeLupta.h"
+
+1493067721 source:f:\rnprototip\src\distrugator.cpp
+	"Distrugator.h"
+	<iostream>
+
+1493067784 f:\rnprototip\include\distrugator.h
+	"Nava.h"
+	"Forma.h"
+	"CampDeLupta.h"
+
+1492769638 source:f:\rnprototip\src\forma.cpp
+	"Forma.h"
+
+1493067478 source:f:\rnprototip\src\nava.cpp
+	<cstring>
+	"Nava.h"
+	"Distrugator.h"
+	"Salupa.h"
+	"Crucisator.h"
+	"Submarin.h"
+
+1493067892 f:\rnprototip\include\salupa.h
+	"Nava.h"
+	"Forma.h"
+
+1493067892 f:\rnprototip\include\submarin.h
+	"Nava.h"
+	"Forma.h"
+	"CampDeLupta.h"
+	"Actiune.h"
+
+1492848916 f:\rnprototip\include\actiune.h
+	"Nava.h"
+
+1493067738 source:f:\rnprototip\src\salupa.cpp
+	"Salupa.h"
+	<iostream>
+	"Nava.h"
+
+1493067892 source:f:\rnprototip\src\submarin.cpp
+	"Submarin.h"
+	<iostream>
+	<cstring>
+	"Salupa.h"
+	"Distrugator.h"
+	"Crucisator.h"
+
+1492799234 source:f:\rnprototip\src\vectornave.cpp
+	"vectorNave.h"
+	"Salupa.h"
+	"Submarin.h"
+	"Distrugator.h"
+	"Crucisator.h"
+	<cstring>
+
+1492972479 f:\rnprototip\include\vectornave.h
+	"Nava.h"
+
+1493068048 source:f:\rnprototip\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	"Nava.h"
+	"Crucisator.h"
+	"Distrugator.h"
+	"Submarin.h"
+	"Salupa.h"
+	"vectorNave.h"
+	"CampDeLupta.h"
+
